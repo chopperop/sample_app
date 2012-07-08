@@ -11,6 +11,10 @@
 		<!--[if lt IE 8]><%= stylesheet_link_tag 'blueprint/ie' %><![endif]-->
 		<%= stylesheet_link_tag 'custom', :media => 'screen' %>
 	</head>
+	<!-- START_HIGHLIGHT -->
+	<body class='<%= controller.controller_name %>'>
+	<!-- END_HIGHLIGHT -->
+
 	<body>
 		<div class="container">
 			<header>
