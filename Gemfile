@@ -16,6 +16,7 @@ group :development, :test do
     gem 'rspec-rails'
     gem 'autotest'
     gem 'spork'
+    gem 'annotate'
 end 
 
 # Gems used only for assets and not required
