@@ -17,6 +17,7 @@ group :development, :test do
     gem 'autotest'
     gem 'spork'
     gem 'annotate'
+    gem 'factory_girl_rails'
 end 
 
 # Gems used only for assets and not required
