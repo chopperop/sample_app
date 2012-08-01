@@ -102,3 +102,27 @@ footer {
 footer nav {
 	float: none;
 }
+
+ /* User show page */
+
+ table.profile {
+ 	width: 100%;
+ 	margin-bottom: 0;
+ }
+
+ td.main {
+ 	width: 70%;
+ 	padding: 1em;
+ }
+
+ td.siebar {
+ 	width: 30%;
+ 	padding: 1em;
+ 	vertical-align: top;
+ 	background: #ffc;
+ }
+
+ .profile imag.gravator {
+ 	border: 1px solid #999;
+ 	margin-bottom: -15px;
+ }
